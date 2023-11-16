@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 #Esto es el ejercicio 2
 
 Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master Nuevo parrafo en master 
 
 
 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 Nuevo parrafo en master 2 
+=======
+#Ya no es el ejercicio dos en master
+
+Esto no es un párrafo 1 Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1Esto no es un párrafo 1
+
+
+
+Esto no es un párrafo 2 Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2Esto no es un párrafo 2
+>>>>>>> desenvolupament
